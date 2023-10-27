@@ -1,4 +1,4 @@
-# Containerizing Django and React with Docker
+# Django and React with Docker
 
 Nowadays, software developers work in multiple projects at the same time. The projects usually present distinct requirements, nevertheless, they musst be identically reproduced in multiple machines and, sometimes, they have to live in the same hardware - the developer's computer. The so called container technology stands out among the different approaches used to reliably reproduce software projects.
 
